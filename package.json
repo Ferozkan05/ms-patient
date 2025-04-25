@@ -1,0 +1,19 @@
+{
+  "name": "patient",
+  "version": "1.0.0",
+  "main": "patient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferozkan05/ms-patient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferozkan05/ms-patient/issues"
+  },
+  "homepage": "https://github.com/Ferozkan05/ms-patient#readme",
+  "description": ""
+}
